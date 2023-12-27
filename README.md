@@ -1,4 +1,23 @@
-### Hi there, I'm [Nguyen Ngoc Khoi](https://www.linkedin.com/in/kh%C3%B4i-nguy%E1%BB%85n-ng%E1%BB%8Dc-980251272/) 👋
+<!-- ### Hi there, I'm [Nguyen Ngoc Khoi](https://www.linkedin.com/in/kh%C3%B4i-nguy%E1%BB%85n-ng%E1%BB%8Dc-980251272/) 👋 -->
+
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hi There
+      <br>
+      I'm
+        <a href="https://www.linkedin.com/in/kh%C3%B4i-nguy%E1%BB%85n-ng%E1%BB%8Dc-980251272/">
+            Nguyen Ngoc Khoi
+        </a>
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Part+time+developer,+full+time+gamer.">
+      <br>
+
+   </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
 I am a Fourth-year college student at [University of Science](https://hcmus.edu.vn/), Ho Chi Minh city, Viet Nam. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
