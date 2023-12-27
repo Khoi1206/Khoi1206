@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Khoi12006/todoist-readme@master
+      - uses: Khoi1206/Khoi1206@master
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
           PREMIUM: ""
