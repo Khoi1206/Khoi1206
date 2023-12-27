@@ -12,7 +12,7 @@
         </a>
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Part+time+developer,+full+time+gamer.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Developer+in+Day,+Gamer+in+Night.">
       <br>
 
    </samp>
