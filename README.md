@@ -11,7 +11,7 @@ I am a Fourth-year college student at [University of Science](https://hcmus.edu.
 
 #### Languages:
 
-<img align="right" alt="GIF" src="https://github.com/Khoi1206/nguyen-ngoc-khoi/blob/main/code.gif?raw=true" width="400" height="140" />
+<img align="right" alt="GIF" src="https://github.com/Khoi1206/nguyen-ngoc-khoi/blob/main/code.gif?raw=true" width="300" height="225" />
 
 ![PHP](https://img.shields.io/badge/PHP-778899?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
