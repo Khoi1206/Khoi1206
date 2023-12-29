@@ -67,8 +67,7 @@ I am a Fourth-year college student at [University of Science](https://hcmus.edu.
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/kh%C3%B4i-nguy%E1%BB%85n-ng%E1%BB%8Dc-980251272/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/wernnk_/)
-[<img src="https://img.shields.io/badge/GITHUB.IO-2312100E?style=for-the-badge&logo=Git&logoColor=white&color=black" />]
-(https://khoi1206.github.io/)
+[<img src="https://img.shields.io/badge/GITHUB.IO-2312100E?style=for-the-badge&logo=Git&logoColor=white&color=black" />](https://khoi1206.github.io/)
 
 </p>
 
