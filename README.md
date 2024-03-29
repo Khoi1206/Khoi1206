@@ -41,7 +41,7 @@ I am a Fourth-year college student at [University of Science](https://hcmus.edu.
 
 ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-9C9C9C?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Codeigniter](https://img.shields.io/badge/CODEIGNITER-DC143C?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/LARAVEL-FF3030?style=for-the-badge&logo=laravel&logoColor=white)
+![Phalcon](https://img.shields.io/badge/PHALCON-FF3030?style=for-the-badge&logo=phalcon&logoColor=white)
 
 #### Database
 
