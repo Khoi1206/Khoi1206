@@ -1,75 +1,80 @@
-<!-- ### Hi there, I'm [Nguyen Ngoc Khoi](https://www.linkedin.com/in/kh%C3%B4i-nguy%E1%BB%85n-ng%E1%BB%8Dc-980251272/) 👋 -->
+<div align="center">
 
-<p align="left"><strong><samp>「</samp></strong></p>
-  <p align="center">
-    <samp>
-      <b>
-        Hi There
-      <br>
-      I'm
-        <a href="https://khoi1206.github.io/">
-            Nguyen Ngoc Khoi
-        </a>
-      </b>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Trying+to+do+better.">
-      <br>
+<p align="left"><strong><samp>「</samp></strong></p> <p align="center"> <samp> <b> Hi There <br> I'm <a href="https://khoi1206.github.io/"> Nguyen Ngoc Khoi </a> </b> <br> <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Trying+to+do+better."> <br> </samp> </p> <p align="right"><strong><samp>」</samp></strong></p>
 
-   </samp>
-  </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+<br/>
 
-I am a Fourth-year college student at [University of Science](https://hcmus.edu.vn/), Ho Chi Minh city, Viet Nam. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<a href="https://www.linkedin.com/in/nguyenngockhoi/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
-**I am open to**:
+<a href="https://khoi1206.github.io/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
 
-- Any collobration work.
-- Website develop projects.
+</div>
 
-## Skills:
+---
 
-#### Languages:
+## About me
 
-<img align="right" alt="GIF" src="https://github.com/Khoi1206/nguyen-ngoc-khoi/blob/main/code.gif?raw=true" width="300" height="225" />
+I am a software developer focused on building maintainable backend systems and web applications.
 
-![PHP](https://img.shields.io/badge/PHP-778899?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/JAVASCRIPT-FFD700?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Nodejs](https://img.shields.io/badge/NODEJS-008B00?style=for-the-badge&logo=node.js&logoColor=white)
+- Working mainly with **PHP**, **TypeScript**, and **JavaScript**
+- Building backend applications with **Phalcon** and **NestJS**
+- Developing web interfaces with **Next.js**
+- Working with relational and document databases
+- Using Docker to create consistent development environments
+- Interested in backend architecture, API design, and code quality
 
-#### Framework
+I am open to collaboration and web development projects.
 
-![ExpressJS](https://img.shields.io/badge/EXPRESSJS-9C9C9C?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Codeigniter](https://img.shields.io/badge/CODEIGNITER-DC143C?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/LARAVEL-FF3030?style=for-the-badge&logo=laravel&logoColor=white)
+---
 
-#### Database
+## Tech stack
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MONGODB-228B22?style=for-the-badge&logo=mongodb&logoColor=white)
+### Languages
 
-#### Tools and Technologies
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
-
-#### IDEs
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
-## Connect with me:
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/kh%C3%B4i-nguy%E1%BB%85n-ng%E1%BB%8Dc-980251272/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/wernnk_/)
-[<img src="https://img.shields.io/badge/GITHUB.IO-2312100E?style=for-the-badge&logo=Git&logoColor=white&color=black" />](https://khoi1206.github.io/)
-
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-| <a href="https://github.com/Khoi1206/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Khoi1206&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Khoi's github stats" /></a> | <a href="https://github.com/Khoi1206/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khoi1206&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+### Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Phalcon-76C39B?style=for-the-badge&logo=phalcon&logoColor=white" alt="Phalcon"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+---
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:2563EB"
+  width="100%"
+  alt="Footer"
+/>
